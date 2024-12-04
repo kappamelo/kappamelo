@@ -1,4 +1,4 @@
-### Hi there, I am Drifty 👋
+### Hi there, I am Melo 👋
 
 <!--
 **kappamelo/kappamelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
